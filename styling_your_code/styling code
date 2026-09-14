@@ -1,0 +1,15 @@
+PEP 8 - one of the oldest PYTHON ENHANCEMENT PROPOSALS
+
+INDENTATION
+- 4 spaces per indentation
+- dont mix tabs and spaces
+
+LINE LENGTH
+- less than 80 characters
+- comments to 72 characters per line
+
+BLANK LINES
+-
+
+OTHER STYLE GUIDELINES
+-
